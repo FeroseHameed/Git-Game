@@ -1,0 +1,2 @@
+You fork a repository in GitHub to experiment changes with the repository without directly effecting the original
+repository
